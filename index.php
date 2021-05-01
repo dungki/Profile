@@ -23,24 +23,6 @@
       </div>
       <a href="tel:0364169001" class="contact-btn">Contact Me</a>
     </div>
-    <div class="card-footer">
-      <div class="numbers">
-        <div class="item">
-          <span>120</span>
-          Posts
-        </div>
-        <div class="border"></div>
-        <div class="item">
-          <span>127</span>
-          Following
-        </div>
-        <div class="border"></div>
-        <div class="item">
-          <span>120K</span>
-          Followers
-        </div>
-      </div>
-    </div>
   </div>
 </body>
 </html>
