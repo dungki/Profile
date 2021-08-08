@@ -8,11 +8,10 @@
     font-family: "Ubuntu", sans-serif;
     box-sizing: border-box;
   }
-  .imagebg{
-    position: relative;
-  }
+  
   .card-header{
     padding: 60px 40px;
+
     position: relative;
   }
   
@@ -83,7 +82,7 @@
     color: #e66767;
     border: 2px solid #e66767;
     border-radius: 6px;
-    margin-top: 5px;
+    margin-top: 16px;
     transition: .3s linear;
     text-decoration: none;
 
